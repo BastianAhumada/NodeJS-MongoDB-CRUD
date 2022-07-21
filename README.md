@@ -1,6 +1,10 @@
 # Nodejs-crudMongodb
 
-Crud Realizado con mongoDB, utilizando como herramientas.
+Crud Realizado con mongoDB, utilizando el modelo vista controlador MVC.
 
-# Nodejs
-# Express
+# Herramientas
+
+- Nodejs
+- Express
+- NPM
+- Variables de Entorno
