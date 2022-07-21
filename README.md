@@ -8,5 +8,6 @@ Crud Realizado con mongoDB, utilizando el modelo vista controlador MVC.
 - JavaScript
 - EJS
 - Express
+- MongoDB
 - NPM
 - Variables de Entorno
